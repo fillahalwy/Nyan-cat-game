@@ -6,3 +6,5 @@ Program ini dibuat oleh beberapa orang :
 2. Andreas Andrianto
 3. Bagas Ridho Ilhami
 4. Febrio Pasha Arwanda
+
+Credit juga bisa dilihat di dalam permainan dengan cara menekan c di menu start.
